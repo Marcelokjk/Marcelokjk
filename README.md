@@ -5,10 +5,10 @@
  - Estou estudando web a 1 ano e meio.
 
 ## Especialidades
- - PhP
  - Js (Básico)
  - Html
  - Css
+ - ReactJS/NextJS (Básico)
 
 ## Contato
 
